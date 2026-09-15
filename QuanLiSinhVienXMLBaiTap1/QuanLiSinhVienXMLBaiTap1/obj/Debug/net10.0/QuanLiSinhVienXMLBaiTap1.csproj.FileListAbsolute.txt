@@ -1,0 +1,14 @@
+D:\source visual code\QuanLiSinhVienXMLBaiTap1\QuanLiSinhVienXMLBaiTap1\bin\Debug\net10.0\QuanLiSinhVienXMLBaiTap1.exe
+D:\source visual code\QuanLiSinhVienXMLBaiTap1\QuanLiSinhVienXMLBaiTap1\bin\Debug\net10.0\QuanLiSinhVienXMLBaiTap1.deps.json
+D:\source visual code\QuanLiSinhVienXMLBaiTap1\QuanLiSinhVienXMLBaiTap1\bin\Debug\net10.0\QuanLiSinhVienXMLBaiTap1.runtimeconfig.json
+D:\source visual code\QuanLiSinhVienXMLBaiTap1\QuanLiSinhVienXMLBaiTap1\bin\Debug\net10.0\QuanLiSinhVienXMLBaiTap1.dll
+D:\source visual code\QuanLiSinhVienXMLBaiTap1\QuanLiSinhVienXMLBaiTap1\bin\Debug\net10.0\QuanLiSinhVienXMLBaiTap1.pdb
+D:\source visual code\QuanLiSinhVienXMLBaiTap1\QuanLiSinhVienXMLBaiTap1\obj\Debug\net10.0\QuanLiSinhVienXMLBaiTap1.GeneratedMSBuildEditorConfig.editorconfig
+D:\source visual code\QuanLiSinhVienXMLBaiTap1\QuanLiSinhVienXMLBaiTap1\obj\Debug\net10.0\QuanLiSinhVienXMLBaiTap1.AssemblyInfoInputs.cache
+D:\source visual code\QuanLiSinhVienXMLBaiTap1\QuanLiSinhVienXMLBaiTap1\obj\Debug\net10.0\QuanLiSinhVienXMLBaiTap1.AssemblyInfo.cs
+D:\source visual code\QuanLiSinhVienXMLBaiTap1\QuanLiSinhVienXMLBaiTap1\obj\Debug\net10.0\QuanLiSinhVienXMLBaiTap1.csproj.CoreCompileInputs.cache
+D:\source visual code\QuanLiSinhVienXMLBaiTap1\QuanLiSinhVienXMLBaiTap1\obj\Debug\net10.0\QuanLiSinhVienXMLBaiTap1.dll
+D:\source visual code\QuanLiSinhVienXMLBaiTap1\QuanLiSinhVienXMLBaiTap1\obj\Debug\net10.0\refint\QuanLiSinhVienXMLBaiTap1.dll
+D:\source visual code\QuanLiSinhVienXMLBaiTap1\QuanLiSinhVienXMLBaiTap1\obj\Debug\net10.0\QuanLiSinhVienXMLBaiTap1.pdb
+D:\source visual code\QuanLiSinhVienXMLBaiTap1\QuanLiSinhVienXMLBaiTap1\obj\Debug\net10.0\QuanLiSinhVienXMLBaiTap1.genruntimeconfig.cache
+D:\source visual code\QuanLiSinhVienXMLBaiTap1\QuanLiSinhVienXMLBaiTap1\obj\Debug\net10.0\ref\QuanLiSinhVienXMLBaiTap1.dll
